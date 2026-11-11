@@ -19,7 +19,7 @@ I'm a researcher at the Federal University of Pampa (UNIPAMPA), Brazil. I study 
 
 - 🔭 **Currently:** working on my master's thesis in Systems Optimization.
 - 🎓 **Previously:** built [Lancer](#research), a multi-objective framework for container provisioning in the edge-to-cloud continuum (B.Sc. thesis).
-- 🌱 **Coming soon:** cleaning up and publishing code from past research projects here.
+- 🌱 **Coming soon:** cleaning up and publishing code from past projects from my B.Sc.
 - 💬 **Ask me about:** resource management, task offloading, multi-objective optimization, edge computing.
 
 ## Research
